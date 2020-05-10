@@ -111,3 +111,6 @@ Advanced courses that require prior knowledge in machine learning and AI.
 * [Deep|Bayes 2019 Summer School](https://www.youtube.com/playlist?list=PLe5rNUydzV9QHe8VDStpU0o8Yp63OecdW)
 
 * [CMU Neural Nets for NLP 2020](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CJ7nMxMC8aXv8WqKYwj-aJ)
+
+fairly thoruogh list of courses
+https://deep-learning-drizzle.github.io/
